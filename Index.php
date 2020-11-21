@@ -3,7 +3,7 @@
 </head>
 <body>
 
-        <div class = "flower"	
+        <div class = ""	
         <svg width = "500" height = "500" style = "position: absolute; fill: white; margin-left: 250px; margin-top: 100px;">
 		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640"><defs><text id="a1CZbv2Mzv" x="456.78" y="235.98" font-size="19" font-family="Oswald" font-weight="700" font-style="normal" letter-spacing="0" alignment-baseline="before-edge" transform="matrix(-0.00007367414764503343 0.9999999972860599 -0.9999999982985177 -0.00005833493303469127 743.3790718132996 -136.76607469697848)" style="line-height:100%" xml:space="preserve" dominant-baseline="text-before-edge"><tspan x="456.78" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge" text-anchor="middle">The greatest glory in living lies not in never falling, but in rising every time we fallxt</tspan></text><style id="oswald700normal">
     @font-face {
